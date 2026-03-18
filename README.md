@@ -7,3 +7,11 @@ I've been mostly working with Application Penetration Testing, Vulnerability Ana
 I also use Python and Canva ai when coding or skecthing ideas
 
 This is a fresh profile where i will be uploading some smaller class projects and things I'm currently working on. 
+
+                                                                                                                       
+## Fun Facts
+
+Bartender looking to transcition into the tech world
+
+Hobbies: Basketball, tech, gym, video games
+
